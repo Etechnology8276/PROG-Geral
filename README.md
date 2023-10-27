@@ -1,5 +1,5 @@
 # Bem-Vindo ao canal de Programação!
-este canal foi feito exclusívamente para vocês, memebros da parte de programação.
+este canal foi feito exclusívamente para vocês, membros da parte de programação.
 >(**insira o nome**) Líder da Área de Programação.
 
 # Membros
